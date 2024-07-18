@@ -1,0 +1,33 @@
+# DLS1
+## Данные проекты были выполнены в Deep Learning School (ML, DL, CV)
+
+|Название проекта                     |Направление деятельности   |Используемые инструменты     | Задачи проекта                                                      |
+|:------------------------------------|:--------------------------|:----------------------------|:--------------------------------------------------------------------|
+|1. [Библиотека sklearn и классификация с помощью KNN](https://github.com/sx118828/Yandex-Practicum/tree/main/1.%20big%20city%20music)|`Data Scientist`|*Pandas, Numpy, Scikit-learn*|
+
+Подобрать параметры модели
+
+    по сетке от 1 до 10 параметр числа соседей
+
+    использоввать различные метрики: ['manhattan', 'euclidean']
+
+    использовать различные стратегии вычисления весов: [‘uniform’, ‘distance’]
+
+|
+|2. [Исследование надёжности заёмщиков — анализ банковских данных](https://github.com/sx118828/Yandex-Practicum/tree/main/2.%20banking%20data%20analysis)|`Data Analyst` `Финансовый аналитик`|*Pandas*|На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок|
+|3. [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/sx118828/Yandex-Practicum/tree/main/3.%20real%20estate%20market%20analysis)|`Маркетинг-аналитик` `Fraud-аналитик` `Data Analyst`|*Pandas, Matplotlib, Seaborn*|Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир|
+|4. [Определение выгодного тарифа для телеком компании](https://github.com/sx118828/Yandex-Practicum/tree/main/4.%20favorable%20tariff)|`Маркетинг-аналитик` `Продуктовый аналитик` `Data Analyst`|*Pandas, Matplotlib, NumPy, Math, SciPy, Seaborn*|На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа|
+|5. [Исследование закономерности, определяющей успешность игры](https://github.com/sx118828/Yandex-Practicum/tree/main/5.%20successful%20consoles)|`Маркетинг-аналитик` `Продуктовый аналитик` `Data Analyst`|*Pandas, Matplotlib, NumPy, Statistics, SciPy, Seaborn, Scikit-learn*|Необходимо выявить определяющие успешность игры закономерности, что позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании|
+|6. [Классификаиция клиентов телеком компании](https://github.com/sx118828/Yandex-Practicum/tree/main/6.%20classification%20of%20telecom%20company%20clients)|`Data Scientist` `Машинное обучение` `Классификация`|*Pandas, Matplotlib, NumPy, Math, SciPy, Seaborn, Scikit-learn*|На основе данных предложить клиенту тариф|
+|7. [Прогнозирование оттока клиента Банка](https://github.com/sx118828/Yandex-Practicum/tree/main/7.%20customer%20churn%20prediction)|`Data Scientist` `Машинное обучение` `Классификация`|*Pandas, Matplotlib, NumPy, Math, SciPy, Seaborn, Scikit-learn*|На основе данных из банка определить клиента, который может уйти|
+|8. [Определение наиболее выгодного региона нефтедобычи](https://github.com/sx118828/Yandex-Practicum/tree/main/8.%20oil%20production%20region)|`Data Scientist` `Финансовый аналитик` `Машинное обучение` `Разработка бизнес-модели` `Регррессия`|*Pandas, Matplotlib, NumPy, Math, Statistics, SciPy, Seaborn, Scikit-learn, бутстреп*|На основе данных геологоразведки выбрать район добычи нефти|
+|9. [Исследование технологического процесса очистки золота](https://github.com/sx118828/Yandex-Practicum/tree/main/9.%20gold%20refining)|`Data Scientist` `Аналитик (универсал)` `Машинное обучение` `Регрессия`|*Pandas, Matplotlib, NumPy, Math, Statistics, SciPy, Seaborn, Scikit-learn, Missingno*|Спрогнозировать концентрацию золота при проведении процесса очистки золота|
+|10. [Защита данных клиентов страховой компании](https://github.com/sx118828/Yandex-Practicum/tree/main/10.%20protection%20of%20personal%20information)|`Data Scientist` `Машинное обучение` `Шифрование` `Регрессия`|*Pandas, NumPy, Scikit-learn*|Разработка модели анонимизации персональных данных|
+|11. [Построение модели определения стоимости автомобиля](https://github.com/sx118828/Yandex-Practicum/tree/main/11.%20determination%20of%20the%20value%20of%20the%20car)|`Data Scientist` `Машинное обучение` `Регрессия`|*Pandas, NumPy, Scikit-learn, lightgbm*|Разработка системы рекомендации стоимости автомобиля на основе его описания|
+|12. [Прогнозирование количества заказов такси на следующий час](https://github.com/sx118828/Yandex-Practicum/tree/main/12.%20taxi%20order%20forecasting)|`Data Scientist` `Машинное обучение` `Регрессия`|*Pandas, NumPy, Statsmodels, Matplotlib, Scikit-learn, Lightgbm, Catboost*|Разработка системы предсказания объема заказа|
+|13. [Обучение модели классификации комментариев](https://github.com/sx118828/Yandex-Practicum/tree/main/13.%20comment%20classification)|`Data Scientist` `NLP` `Машинное обучение` `Классификация`|*Pandas, NumPy, Scikit-learn, Re, Nltk, Tqdm, Lightgbm, Catboost*|Определение токсичности комментарии|
+|13. [Обучение модели (BERT) классификации комментариев](https://github.com/sx118828/Yandex-Practicum/tree/main/13.%20comment%20classification%20BERT)|`Data Scientist` `NLP` `Машинное обучение` `Классификация`|*Pandas, NumPy, Scikit-learn, Re, Nltk, Tqdm, Lightgbm, Catboost, Torch, Transformers*|Определение токсичности комментарии|
+|14. [Определение ResNet50 возраста покупателей](https://github.com/sx118828/Yandex-Practicum/blob/main/14.%20predict%20age%20of%20ResNet50)|`Data Scientist` `Computer Vision` `Машинное обучение` `Классификация`|*Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tensorflow , Keras*|Необходимо построить модель, которая по фотографии определит приблизительный возраст человека|
+|14. [Определение Xception возраста покупателей](https://github.com/sx118828/Yandex-Practicum/tree/main/17.%20predict%20age%20of%20Xception)|`Data Scientist` `Computer Vision` `Машинное обучение` `Классификация`|*Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tensorflow , Keras*|Необходимо построить модель, которая по фотографии определит приблизительный возраст человека|
+|15. [Анализ в PySpark информации о венчурных фондах и инвестициях](https://github.com/sx118828/Yandex-Practicum/tree/main/15.%20venture%20funds%20and%20startups)|`Data Analyst`|*Pandas, NumPy, PySpark, SQL*|Необходимо проанализировать данные о фондах и инвестициях и написать запросы к базе|
+|16. [Оптимизация производственных расходов металлургического комбината](https://github.com/sx118828/Yandex-Practicum/tree/main/16.%20predict%20steel%20temperature)|`Data Scientist` `Машинное обучение` `Регрессия`|*Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Catboost, Xgboost*|Необходимо построить модель, которая предскажет температуру стали|
